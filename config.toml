@@ -1,5 +1,5 @@
-languageCode = "en-us"
-title = "Massively"
+languageCode = "es-ES"
+title = "Revista Vanadio"
 baseURL = "https://vanadio.es/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
@@ -24,9 +24,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.es]
   languageName = "Español"
-[languages.en]
-  languageName = "English"
-  title = "Massively - English Version"
+#[languages.en]
+#  languageName = "English"
+#  title = "Massively - English Version"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
