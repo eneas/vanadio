@@ -5,6 +5,7 @@ theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+defaultcontentlanguage = "es"
 
 # [params]
   # set below parameter to define a favicon
